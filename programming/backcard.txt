@@ -1,0 +1,7 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+{{Answer}}
+
+<hr color=#F08080>
