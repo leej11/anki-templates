@@ -4,6 +4,9 @@ This is a brief guide to setting up Programming notes/cards for Anki
 ### Creating a New Note Type
 1. Navigate to *Tools -> Manage note types*
 2. Click *Add* to make a new note type
+
+![add-notes](add-note-type.png)
+
 3. Select *Add Basic* 
 
 ### Editing the Fields
@@ -18,5 +21,12 @@ For more information on customising fields, feel free to check out Anki's docs o
 ### Editing the Card Templates
 Cards are what you can think of as the digital equivalent of physical paper flash-cards. These cards are constructed in HTML & CSS, and pull in information from your "fields". 
 
+When constructing my Python card template, I make the following changes...
+
+![card-front](card-front.png)
+
+![card-back](card-back.png)
+
+![styling](styling.png)
 
 
